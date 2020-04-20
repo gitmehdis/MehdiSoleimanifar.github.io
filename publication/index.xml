@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Mehdi Soleimanifar</title>
+    <link>https://MehdiSoleimanifar.github.io/publication/</link>
+      <atom:link href="https://MehdiSoleimanifar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mehdi Soleimanifar</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MehdiSoleimanifar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://MehdiSoleimanifar.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Sample-efficient learning of quantum many-body systems</title>
+      <link>https://MehdiSoleimanifar.github.io/publication/gibbs_learning_aaks/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://MehdiSoleimanifar.github.io/publication/gibbs_learning_aaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical algorithms, correlation decay, and complex zeros of partition functions of quantum many-body systems</title>
+      <link>https://MehdiSoleimanifar.github.io/publication/partition_function_hms/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MehdiSoleimanifar.github.io/publication/partition_function_hms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
