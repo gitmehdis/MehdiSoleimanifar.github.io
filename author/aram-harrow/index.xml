@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aram Harrow | Mehdi Soleimanifar</title>
-    <link>https://MehdiSoleimanifar.github.io/author/aram-harrow/</link>
-      <atom:link href="https://MehdiSoleimanifar.github.io/author/aram-harrow/index.xml" rel="self" type="application/rss+xml" />
+    <link>mehdis.me/author/aram-harrow/</link>
+      <atom:link href="mehdis.me/author/aram-harrow/index.xml" rel="self" type="application/rss+xml" />
     <description>Aram Harrow</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mehdi Soleimanifar</copyright><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MehdiSoleimanifar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/mehdis.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Aram Harrow</title>
-      <link>https://MehdiSoleimanifar.github.io/author/aram-harrow/</link>
+      <link>mehdis.me/author/aram-harrow/</link>
     </image>
     
     <item>
       <title>Classical algorithms, correlation decay, and complex zeros of partition functions of quantum many-body systems</title>
-      <link>https://MehdiSoleimanifar.github.io/publication/partition_function_hms/</link>
+      <link>mehdis.me/publication/partition_function_hms/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://MehdiSoleimanifar.github.io/publication/partition_function_hms/</guid>
+      <guid>mehdis.me/publication/partition_function_hms/</guid>
       <description></description>
     </item>
     
