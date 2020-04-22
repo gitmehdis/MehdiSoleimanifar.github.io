@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehdi Soleimanifar</title>
-    <link>mehdis.me/author/mehdi-soleimanifar/</link>
-      <atom:link href="mehdis.me/author/mehdi-soleimanifar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://MehdiSoleimanifar.github.io/author/mehdi-soleimanifar/</link>
+      <atom:link href="https://MehdiSoleimanifar.github.io/author/mehdi-soleimanifar/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehdi Soleimanifar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mehdi Soleimanifar</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mehdis.me/author/mehdi-soleimanifar/avatar_hu030307811e270062d2b4060c6beb235e_1281129_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://MehdiSoleimanifar.github.io/author/mehdi-soleimanifar/avatar_hu030307811e270062d2b4060c6beb235e_1281129_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Mehdi Soleimanifar</title>
-      <link>mehdis.me/author/mehdi-soleimanifar/</link>
+      <link>https://MehdiSoleimanifar.github.io/author/mehdi-soleimanifar/</link>
     </image>
     
     <item>
       <title>Sample-efficient learning of quantum many-body systems</title>
-      <link>mehdis.me/publication/gibbs_learning_aaks/</link>
+      <link>https://MehdiSoleimanifar.github.io/publication/gibbs_learning_aaks/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>mehdis.me/publication/gibbs_learning_aaks/</guid>
+      <guid>https://MehdiSoleimanifar.github.io/publication/gibbs_learning_aaks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classical algorithms, correlation decay, and complex zeros of partition functions of quantum many-body systems</title>
-      <link>mehdis.me/publication/partition_function_hms/</link>
+      <link>https://MehdiSoleimanifar.github.io/publication/partition_function_hms/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>mehdis.me/publication/partition_function_hms/</guid>
+      <guid>https://MehdiSoleimanifar.github.io/publication/partition_function_hms/</guid>
       <description></description>
     </item>
     

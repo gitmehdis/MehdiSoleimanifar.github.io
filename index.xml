@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehdi Soleimanifar</title>
-    <link>mehdis.me/</link>
-      <atom:link href="mehdis.me/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://MehdiSoleimanifar.github.io/</link>
+      <atom:link href="https://MehdiSoleimanifar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehdi Soleimanifar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mehdi Soleimanifar</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mehdis.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://MehdiSoleimanifar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Mehdi Soleimanifar</title>
-      <link>mehdis.me/</link>
+      <link>https://MehdiSoleimanifar.github.io/</link>
     </image>
     
     <item>
       <title>Sample-efficient learning of quantum many-body systems</title>
-      <link>mehdis.me/publication/gibbs_learning_aaks/</link>
+      <link>https://MehdiSoleimanifar.github.io/publication/gibbs_learning_aaks/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>mehdis.me/publication/gibbs_learning_aaks/</guid>
+      <guid>https://MehdiSoleimanifar.github.io/publication/gibbs_learning_aaks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classical algorithms, correlation decay, and complex zeros of partition functions of quantum many-body systems</title>
-      <link>mehdis.me/publication/partition_function_hms/</link>
+      <link>https://MehdiSoleimanifar.github.io/publication/partition_function_hms/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>mehdis.me/publication/partition_function_hms/</guid>
+      <guid>https://MehdiSoleimanifar.github.io/publication/partition_function_hms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Power of Quantum Computers</title>
-      <link>mehdis.me/talk/power_of_qc/</link>
+      <link>https://MehdiSoleimanifar.github.io/talk/power_of_qc/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>mehdis.me/talk/power_of_qc/</guid>
+      <guid>https://MehdiSoleimanifar.github.io/talk/power_of_qc/</guid>
       <description>&lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -45,9 +45,9 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>Counting without Sampling: Approximation Algorithms for Quantum Many-Body Systems at Finite Temperatures</title>
-      <link>mehdis.me/talk/partition_function_caltech/</link>
+      <link>https://MehdiSoleimanifar.github.io/talk/partition_function_caltech/</link>
       <pubDate>Tue, 23 Jul 2019 15:00:00 +0000</pubDate>
-      <guid>mehdis.me/talk/partition_function_caltech/</guid>
+      <guid>https://MehdiSoleimanifar.github.io/talk/partition_function_caltech/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
