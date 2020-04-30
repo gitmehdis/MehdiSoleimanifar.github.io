@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Mehdi Soleimanifar</title>
-    <link>https://MehdiSoleimanifar.github.io/categories/</link>
-      <atom:link href="https://MehdiSoleimanifar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>mehdis.me/categories/</link>
+      <atom:link href="mehdis.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mehdi Soleimanifar</copyright>
     <image>
-      <url>https://MehdiSoleimanifar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/mehdis.me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://MehdiSoleimanifar.github.io/categories/</link>
+      <link>mehdis.me/categories/</link>
     </image>
     
   </channel>
