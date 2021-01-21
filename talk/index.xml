@@ -43,21 +43,6 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     </item>
     
     <item>
-      <title>Power of Quantum Computers</title>
-      <link>https://MehdiSoleimanifar.github.io/talk/power_of_qc/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://MehdiSoleimanifar.github.io/talk/power_of_qc/</guid>
-      <description>&lt;!-- Slides can be added in a few ways:
-
-- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Counting without Sampling: Approximation Algorithms for Quantum Many-Body Systems at Finite Temperatures</title>
       <link>https://MehdiSoleimanifar.github.io/talk/partition_function_caltech/</link>
       <pubDate>Tue, 23 Jul 2019 15:00:00 +0000</pubDate>
