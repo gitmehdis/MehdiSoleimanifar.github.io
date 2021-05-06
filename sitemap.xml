@@ -3,17 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://MehdiSoleimanifar.github.io/talk/entanglement_spread/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <loc>https://MehdiSoleimanifar.github.io/author/anurag-anshu/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/authors/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/author/david-gosset/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/publication/bounded_deg_hamiltonians/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/author/karen-j.-morenz-korol/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://MehdiSoleimanifar.github.io/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/author/mehdi-soleimanifar/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/publication/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/talk/entanglement_spread_qip/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://MehdiSoleimanifar.github.io/talk/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/talk/entanglement_spread/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,32 +63,12 @@
   </url>
   
   <url>
-    <loc>https://MehdiSoleimanifar.github.io/author/anurag-anshu/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://MehdiSoleimanifar.github.io/author/aram-harrow/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://MehdiSoleimanifar.github.io/authors/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://MehdiSoleimanifar.github.io/publication/spread_area_law_ahs/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://MehdiSoleimanifar.github.io/author/mehdi-soleimanifar/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://MehdiSoleimanifar.github.io/publication/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -65,6 +85,11 @@
   <url>
     <loc>https://MehdiSoleimanifar.github.io/author/tomotaka-kuwahara/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://MehdiSoleimanifar.github.io/talk/sample_efficient_learning_quantum-copy/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>

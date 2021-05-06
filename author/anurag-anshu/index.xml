@@ -5,12 +5,20 @@
     <link>https://MehdiSoleimanifar.github.io/author/anurag-anshu/</link>
       <atom:link href="https://MehdiSoleimanifar.github.io/author/anurag-anshu/index.xml" rel="self" type="application/rss+xml" />
     <description>Anurag Anshu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Mehdi Soleimanifar</copyright><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Mehdi Soleimanifar</copyright><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MehdiSoleimanifar.github.io/images/icon_hu587eca891fb06c8b4307d9a64aa20015_56680_512x512_fill_lanczos_center_2.png</url>
       <title>Anurag Anshu</title>
       <link>https://MehdiSoleimanifar.github.io/author/anurag-anshu/</link>
     </image>
+    
+    <item>
+      <title>Improved approximation algorithms for bounded-degree local Hamiltonians</title>
+      <link>https://MehdiSoleimanifar.github.io/publication/bounded_deg_hamiltonians/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MehdiSoleimanifar.github.io/publication/bounded_deg_hamiltonians/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From communication complexity to an entanglement spread area law in the ground state of gapped local Hamiltonians</title>
