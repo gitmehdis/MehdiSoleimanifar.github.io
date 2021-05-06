@@ -83,9 +83,9 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>Sample-efficient learning of quantum many-body systems</title>
-      <link>https://MehdiSoleimanifar.github.io/talk/sample_efficient_learning_quantum-copy/</link>
+      <link>https://MehdiSoleimanifar.github.io/talk/sample_efficient_learning_quantum_qip/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://MehdiSoleimanifar.github.io/talk/sample_efficient_learning_quantum-copy/</guid>
+      <guid>https://MehdiSoleimanifar.github.io/talk/sample_efficient_learning_quantum_qip/</guid>
       <description>&lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
