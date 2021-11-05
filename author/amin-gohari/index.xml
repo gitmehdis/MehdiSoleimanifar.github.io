@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amin Gohari | Mehdi Soleimanifar</title>
+    <link>https://MehdiSoleimanifar.github.io/author/amin-gohari/</link>
+      <atom:link href="https://MehdiSoleimanifar.github.io/author/amin-gohari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amin Gohari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Mehdi Soleimanifar</copyright><lastBuildDate>Tue, 20 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MehdiSoleimanifar.github.io/images/icon_hu587eca891fb06c8b4307d9a64aa20015_56680_512x512_fill_lanczos_center_2.png</url>
+      <title>Amin Gohari</title>
+      <link>https://MehdiSoleimanifar.github.io/author/amin-gohari/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive transmission rate with a fixed threshold decoder for diffusion-based molecular communication</title>
+      <link>https://MehdiSoleimanifar.github.io/publication/diffusion_decoder/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://MehdiSoleimanifar.github.io/publication/diffusion_decoder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
