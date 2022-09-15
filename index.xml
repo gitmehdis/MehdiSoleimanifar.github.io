@@ -5,12 +5,57 @@
     <link>https://MehdiSoleimanifar.github.io/</link>
       <atom:link href="https://MehdiSoleimanifar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehdi Soleimanifar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mehdi Soleimanifar</copyright><lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mehdi Soleimanifar</copyright><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MehdiSoleimanifar.github.io/images/icon_hu587eca891fb06c8b4307d9a64aa20015_56680_512x512_fill_lanczos_center_2.png</url>
       <title>Mehdi Soleimanifar</title>
       <link>https://MehdiSoleimanifar.github.io/</link>
     </image>
+    
+    <item>
+      <title>Testing Matrix Product States</title>
+      <link>https://MehdiSoleimanifar.github.io/talk/testing_mps_qip/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://MehdiSoleimanifar.github.io/talk/testing_mps_qip/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improved Approximation Algorithms for Bounded-Degree Local Hamiltonians</title>
+      <link>https://MehdiSoleimanifar.github.io/talk/bounded_degree_qip/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://MehdiSoleimanifar.github.io/talk/bounded_degree_qip/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improved Approximation Algorithms for Bounded-Degree Local Hamiltonians</title>
+      <link>https://MehdiSoleimanifar.github.io/talk/improvedapprox_qip/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://MehdiSoleimanifar.github.io/talk/improvedapprox_qip/</guid>
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Testing matrix product states</title>
@@ -22,9 +67,9 @@
     
     <item>
       <title>Improved Approximation Algorithms for Bounded-Degree Local Hamiltonians</title>
-      <link>https://MehdiSoleimanifar.github.io/talk/improvedapprox_ibm/</link>
+      <link>https://MehdiSoleimanifar.github.io/talk/bounded_degree_ibm/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://MehdiSoleimanifar.github.io/talk/improvedapprox_ibm/</guid>
+      <guid>https://MehdiSoleimanifar.github.io/talk/bounded_degree_ibm/</guid>
       <description>&lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -89,7 +134,7 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     </item>
     
     <item>
-      <title>From communication complexity to an entanglement spread area law in the ground state of gapped local Hamiltonians</title>
+      <title>Entanglement spread area law in gapped ground states</title>
       <link>https://MehdiSoleimanifar.github.io/publication/spread_area_law_ahs/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://MehdiSoleimanifar.github.io/publication/spread_area_law_ahs/</guid>
